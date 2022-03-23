@@ -1,0 +1,1 @@
+// export const API = json_decode(file_get_contents('/var/cache/cbr/daily_json.js'))
